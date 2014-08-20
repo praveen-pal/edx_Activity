@@ -1,4 +1,4 @@
-Adding state and city field in registration form using ajax
+Adding state and city field in Lms registration form using ajax
 ============================================================
 
 * **sudo gedit  /edx/app/edxapp/edx-platform/common/djangoapps/student/models.py**
